@@ -1,7 +1,7 @@
 --
--- EVAL zEdit.lua Dev.Models.SC.ListItems.listitems_154795.List.array change 3 6 / Takes the third item, place it at the sixth place and edit the position of items between them
--- EVAL zEdit.lua Dev.Models.SC.ListItems.listitems_154795.List.array add 3 / Add an item to the third place and modify all items'position after it
--- EVAL zEdit.lua Dev.Models.SC.ListItems.listitems_154795.List.array del 3 / Delete the third item and modify all items'position after it
+-- EVAL zEdit.lua TestScript change 3 6 / Takes the third item, place it at the sixth place and edit the position of items between them
+-- EVAL TestScript add 3 / Add an item to the third place and modify all items'position after it
+-- EVAL TestScript del 3 / Delete the third item and modify all items'position after it
 --
 
 --
